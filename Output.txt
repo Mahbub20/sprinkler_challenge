@@ -1,0 +1,61 @@
+Total sprinklers: 15
+
+Sprinkler 1
+  Position: (97056.88, 37507.65, 2507.50)
+  Connection Point: (97073.58, 37494.70, 3056.88)
+
+Sprinkler 2
+  Position: (98589.14, 39483.03, 2515.00)
+  Connection Point: (98561.01, 39504.87, 3440.94)
+
+Sprinkler 3
+  Position: (100121.40, 41458.41, 2522.50)
+  Connection Point: (100121.43, 41458.44, 3000.00)
+
+Sprinkler 4
+  Position: (95081.49, 39039.91, 2507.50)
+  Connection Point: (95101.11, 39024.70, 3152.89)
+
+Sprinkler 5
+  Position: (96613.75, 41015.29, 2515.00)
+  Connection Point: (96588.54, 41034.87, 3344.93)
+
+Sprinkler 6
+  Position: (98146.01, 42990.67, 2522.50)
+  Connection Point: (98146.05, 42990.73, 3000.00)
+
+Sprinkler 7
+  Position: (93106.10, 40572.18, 2507.50)
+  Connection Point: (93128.64, 40554.71, 3248.90)
+
+Sprinkler 8
+  Position: (94638.36, 42547.56, 2515.00)
+  Connection Point: (94616.07, 42564.88, 3248.91)
+
+Sprinkler 9
+  Position: (96170.62, 44522.94, 2522.50)
+  Connection Point: (96170.68, 44523.01, 3000.00)
+
+Sprinkler 10
+  Position: (91130.72, 42104.45, 2507.50)
+  Connection Point: (91156.17, 42084.71, 3344.91)
+
+Sprinkler 11
+  Position: (92662.98, 44079.83, 2515.00)
+  Connection Point: (92643.60, 44094.88, 3152.90)
+
+Sprinkler 12
+  Position: (94195.23, 46055.21, 2522.50)
+  Connection Point: (94195.30, 46055.30, 3000.00)
+
+Sprinkler 13
+  Position: (89155.33, 43636.71, 2507.50)
+  Connection Point: (89183.70, 43614.72, 3440.93)
+
+Sprinkler 14
+  Position: (90687.59, 45612.09, 2515.00)
+  Connection Point: (90671.13, 45624.88, 3056.89)
+
+Sprinkler 15
+  Position: (92219.85, 47587.47, 2522.50)
+  Connection Point: (92219.93, 47587.58, 3000.00)
